@@ -6,3 +6,4 @@
 3. Прислать работу как pool request в этот репозиторий.
 
 
+[ограничесния и требования субд Алина Рудь.txt](https://github.com/ilya-punhin/spt-bd-raspisanie/files/11129121/default.txt)
